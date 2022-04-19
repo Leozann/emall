@@ -1,0 +1,37 @@
+.aqila p{
+	font-size: 20px;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: bold;
+	text-align: center;
+	padding: 10px;
+}
+.tarhim img{
+	width: 50px;
+	height: 50px;
+}
+.tarhim {
+	padding: 15px;
+	height: 80px;
+	width: 466px;
+	position: relative;
+}
+.tarhim:hover {
+	background-color: #dae1eb;
+}
+.sawadikap {
+	position: absolute;
+	top: 10px;
+	left: 100px;
+	text-decoration: none;
+	color: black;
+}
+.sawadikap:hover {
+	text-decoration: none;
+	cursor: pointer;
+	color: black;
+}
+.tidur {
+	position: absolute;
+	top: 30px;
+	left: 100px;
+}
